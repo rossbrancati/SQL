@@ -1,2 +1,2 @@
 # SQL
-some SQL practice projects
+some SQL side projects that I have completed
